@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Helianthus_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Helianthus_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Helianthus_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helianthus_Depressed_01.exp3.json",
+				"Name": "Depressed",
 				"File": "expressions/EMO_Helianthus_Depressed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helianthus_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Helianthus_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helianthus_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Helianthus_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helianthus_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Helianthus_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helianthus_Shy_01.exp3.json",
+				"Name": "Shy",
 				"File": "expressions/EMO_Helianthus_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helianthus_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Helianthus_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helianthus_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Helianthus_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helianthus_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Helianthus_Think_01.exp3.json"
 			}
 		],

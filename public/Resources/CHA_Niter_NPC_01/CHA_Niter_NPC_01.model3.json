@@ -8,23 +8,23 @@
 		"DisplayInfo": "CHA_Niter_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Niter_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Niter_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Niter_Inspire_01.exp3.json",
+				"Name": "Inspire",
 				"File": "expressions/EMO_Niter_Inspire_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Niter_Pray_01.exp3.json",
+				"Name": "Pray",
 				"File": "expressions/EMO_Niter_Pray_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Niter_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Niter_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Niter_Solemn_01.exp3.json",
+				"Name": "Solemn",
 				"File": "expressions/EMO_Niter_Solemn_01.exp3.json"
 			}
 		],

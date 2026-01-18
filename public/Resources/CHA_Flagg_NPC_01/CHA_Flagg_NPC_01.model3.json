@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Flagg_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Flagg_Idle_01 .exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Flagg_Idle_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Flagg_Panic_01 .exp3.json",
+				"Name": "Panic",
 				"File": "expressions/EMO_Flagg_Panic_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Flagg_Smile_01 .exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Flagg_Smile_01 .exp3.json"
 			}
 		],

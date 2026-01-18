@@ -9,43 +9,43 @@
 		"DisplayInfo": "CHA_Lind_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Lind_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Lind_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Anxiety_01",
+				"Name": "Anxiety",
 				"File": "expressions/EMO_Lind_Anxiety_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Bored_01",
+				"Name": "Bored",
 				"File": "expressions/EMO_Lind_Bored_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Lind_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Sad_01",
+				"Name": "Sad",
 				"File": "expressions/EMO_Lind_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Seriou_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Lind_Seriou_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Shy_01",
+				"Name": "Shy",
 				"File": "expressions/EMO_Lind_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Lind_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Lind_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lind_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Lind_Think_01.exp3.json"
 			}
 		],

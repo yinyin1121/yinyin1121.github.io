@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Rurik_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Rurik_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Rurik_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Rurik_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Rurik_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Rurik_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Rurik_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Rurik_Special_01.exp3.json",
+				"Name": "Special",
 				"File": "expressions/EMO_Rurik_Special_01.exp3.json"
 			}
 		],

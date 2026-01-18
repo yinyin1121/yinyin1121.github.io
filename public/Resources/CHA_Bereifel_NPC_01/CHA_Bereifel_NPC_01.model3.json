@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_Bereifel_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Bereifel_Hurried_01",
+				"Name": "Hurried",
 				"File": "expressions/EMO_Bereifel_Hurried_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Bereifel_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Bereifel_Idle_01.exp3.json"
 			}
 		],

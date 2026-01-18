@@ -8,47 +8,47 @@
 		"DisplayInfo": "CHA_Sweeper_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Sweeper_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Sweeper_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Bored_01",
+				"Name": "Bored",
 				"File": "expressions/EMO_Sweeper_Bored_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Cry_01",
+				"Name": "Cry",
 				"File": "expressions/EMO_Sweeper_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Happy_01",
+				"Name": "Happy",
 				"File": "expressions/EMO_Sweeper_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Sweeper_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Ridicule_01",
+				"Name": "Ridicule",
 				"File": "expressions/EMO_Sweeper_Ridicule_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Sweeper_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Shy_01",
+				"Name": "Shy",
 				"File": "expressions/EMO_Sweeper_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Sweeper_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Sorrow_01",
+				"Name": "Sorrow",
 				"File": "expressions/EMO_Sweeper_Sorrow_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sweeper_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Sweeper_Surprised_01.exp3.json"
 			}
 		],

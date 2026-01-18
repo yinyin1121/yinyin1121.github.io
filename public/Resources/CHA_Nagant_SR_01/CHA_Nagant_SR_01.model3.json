@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Nagant_SR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Nagant_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Nagant_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nagant_Excited_01",
+				"Name": "Excited",
 				"File": "expressions/EMO_Nagant_Excited_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nagant_Helpless_01",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Nagant_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nagant_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Nagant_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nagant_Nervous_01",
+				"Name": "Nervous",
 				"File": "expressions/EMO_Nagant_Nervous_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nagant_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Nagant_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nagant_Shy_01",
+				"Name": "Shy",
 				"File": "expressions/EMO_Nagant_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nagant_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Nagant_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nagant_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Nagant_Surprised_01.exp3.json"
 			}
 		],

@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_ManagerB_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_ManagerB_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_ManagerB_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_ManagerB_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_ManagerB_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_ManagerB_Smirk_01.exp3.json",
+				"Name": "Smirk",
 				"File": "expressions/EMO_ManagerB_Smirk_01.exp3.json"
 			}
 		],

@@ -8,27 +8,27 @@
 		"DisplayInfo": "CHA_Bathilda_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "CHA_Bathilda_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/CHA_Bathilda_Angry_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Bathilda_Annoyed_01.exp3.json",
+				"Name": "Annoyed",
 				"File": "expressions/CHA_Bathilda_Annoyed_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Bathilda_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/CHA_Bathilda_Idle_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Bathilda_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/CHA_Bathilda_Sad_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Bathilda_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/CHA_Bathilda_Smile_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Bathilda_Worried_01.exp3.json",
+				"Name": "Worried",
 				"File": "expressions/CHA_Bathilda_Worried_01.exp3.json"
 			}
 		],

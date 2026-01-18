@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Blusphere_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Blusphere_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expresstions/EMO_Blusphere_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Blusphere_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expresstions/EMO_Blusphere_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Blusphere_Vigilant_01.exp3.json",
+				"Name": "Vigilant",
 				"File": "expresstions/EMO_Blusphere_Vigilant_01.exp3.json"
 			}
 		],

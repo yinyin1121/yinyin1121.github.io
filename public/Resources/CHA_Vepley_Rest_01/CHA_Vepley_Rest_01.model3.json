@@ -8,51 +8,51 @@
 		"DisplayInfo": "CHA_Vepley_Rest_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Vepley_Confused_01",
+				"Name": "Confused",
 				"File": "expressions/EMO_Vepley_Confused_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Depression_01",
+				"Name": "Depression",
 				"File": "expressions/EMO_Vepley_Depression_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Diffident_01",
+				"Name": "Diffident",
 				"File": "expressions/EMO_Vepley_Diffident_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Dissatisfied_01",
+				"Name": "Dissatisfied",
 				"File": "expressions/EMO_Vepley_Dissatisfied_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Excited_01",
+				"Name": "Excited",
 				"File": "expressions/EMO_Vepley_Excited_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Vepley_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Proud_01",
+				"Name": "Proud",
 				"File": "expressions/EMO_Vepley_Proud_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Vepley_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Vepley_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Starryeye_01",
+				"Name": "Starryeye",
 				"File": "expressions/EMO_Vepley_Starryeye_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Vepley_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Vepley_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Vepley_Think_01.exp3.json"
 			}
 		],

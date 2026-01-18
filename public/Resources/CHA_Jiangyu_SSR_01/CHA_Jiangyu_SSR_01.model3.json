@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Jiangyu_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Jiangyu_Awkward_01.exp3.json",
+				"Name": "Awkward",
 				"File": "expressions/EMO_Jiangyu_Awkward_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Jiangyu_Cry_01.exp3.json",
+				"Name": "Cry",
 				"File": "expressions/EMO_Jiangyu_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Jiangyu_Eager_01.exp3.json",
+				"Name": "Eager",
 				"File": "expressions/EMO_Jiangyu_Eager_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Jiangyu_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Jiangyu_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Jiangyu_Mad_01.exp3.json",
+				"Name": "Mad",
 				"File": "expressions/EMO_Jiangyu_Mad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Jiangyu_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Jiangyu_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Jiangyu_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Jiangyu_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Jiangyu_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Jiangyu_Surprised_01.exp3.json"
 			}
 		],

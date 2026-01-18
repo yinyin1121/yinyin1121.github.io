@@ -8,43 +8,43 @@
 		"DisplayInfo": "CHA_Lene_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Lene_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Lene_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Confused_01.exp3.json",
+				"Name": "Confused",
 				"File": "expressions/EMO_Lene_Confused_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Cry_01.exp3.json",
+				"Name": "Cry",
 				"File": "expressions/EMO_Lene_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Disappointed_01.exp3.json",
+				"Name": "Disappointed",
 				"File": "expressions/EMO_Lene_Disappointed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Lene_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Helpless_01.exp3.json",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Lene_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Lene_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Lene_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Shy_01.exp3.json",
+				"Name": "Shy",
 				"File": "expressions/EMO_Lene_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lene_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Lene_Surprised_01.exp3.json"
 			}
 		],

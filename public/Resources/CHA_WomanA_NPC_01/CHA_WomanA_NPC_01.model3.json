@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_WomanA_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_WomanA_Excited_01",
+				"Name": "Excited",
 				"File": "expressions/EMO_WomanA_Excited_01.exp3.json"
 			},
 			{
-				"Name": "EMO_WomanA_Guard_01",
+				"Name": "Guard",
 				"File": "expressions/EMO_WomanA_Guard_01.exp3.json"
 			},
 			{
-				"Name": "EMO_WomanA_Happiness_01",
+				"Name": "Happiness",
 				"File": "expressions/EMO_WomanA_Happiness_01.exp3.json"
 			},
 			{
-				"Name": "EMO_WomanA_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_WomanA_Idle_01.exp3.json"
 			}
 		],

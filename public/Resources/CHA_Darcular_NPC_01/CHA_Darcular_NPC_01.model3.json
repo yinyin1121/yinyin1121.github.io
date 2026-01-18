@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Darcular_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Darcular_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expresstions/EMO_Darcular_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Darcular_Rage_01.exp3.json",
+				"Name": "Rage",
 				"File": "expresstions/EMO_Darcular_Rage_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Darcular_Ridicule_01.exp3.json",
+				"Name": "Ridicule",
 				"File": "expresstions/EMO_Darcular_Ridicule_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Darcular_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expresstions/EMO_Darcular_Smile_01.exp3.json"
 			}
 		],

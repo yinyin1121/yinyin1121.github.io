@@ -8,51 +8,51 @@
 		"DisplayInfo": "CHA_Ullrid_Mask_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Ullrid_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Ullrid_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Anxiety_01",
+				"Name": "Anxiety",
 				"File": "expressions/EMO_Ullrid_Anxiety_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Confused_01",
+				"Name": "Confused",
 				"File": "expressions/EMO_Ullrid_Confused_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Despaired_01",
+				"Name": "Despaired",
 				"File": "expressions/EMO_Ullrid_Despaired_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Embarrassed_01",
+				"Name": "Embarrassed",
 				"File": "expressions/EMO_Ullrid_Embarrassed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Happy_01",
+				"Name": "Happy",
 				"File": "expressions/EMO_Ullrid_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Ullrid_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Shy_01",
+				"Name": "Shy",
 				"File": "expressions/EMO_Ullrid_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Ullrid_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Ullrid_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Upset_01",
+				"Name": "Upset",
 				"File": "expressions/EMO_Ullrid_Upset_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ullrid_Vacillate_01",
+				"Name": "Vacillate",
 				"File": "expressions/EMO_Ullrid_Vacillate_01.exp3.json"
 			}
 		],

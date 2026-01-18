@@ -8,71 +8,71 @@
 		"DisplayInfo": "CHA_Colphne_Rest_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Colphne_N_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Colphne_N_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Complain_01.exp3.json",
+				"Name": "Complain",
 				"File": "expressions/EMO_Colphne_N_Complain_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Cry_01.exp3.json",
+				"Name": "Cry",
 				"File": "expressions/EMO_Colphne_N_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Dislike_01.exp3.json",
+				"Name": "Dislike",
 				"File": "expressions/EMO_Colphne_N_Dislike_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Colphne_N_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Pleasant_01.exp3.json",
+				"Name": "Pleasant",
 				"File": "expressions/EMO_Colphne_N_Pleasant_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Rage_01.exp3.json",
+				"Name": "Rage",
 				"File": "expressions/EMO_Colphne_N_Rage_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Ridicule_01.exp3.json",
+				"Name": "Ridicule",
 				"File": "expressions/EMO_Colphne_N_Ridicule_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Colphne_N_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Silent_01.exp3.json",
+				"Name": "Silent",
 				"File": "expressions/EMO_Colphne_N_Silent_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Colphne_N_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Colphne_N_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Tear_01.exp3.json",
+				"Name": "Tear",
 				"File": "expressions/EMO_Colphne_N_Tear_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Tender_01.exp3.json",
+				"Name": "Tender",
 				"File": "expressions/EMO_Colphne_N_Tender_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Tentative_01.exp3.json",
+				"Name": "Tentative",
 				"File": "expressions/EMO_Colphne_N_Tentative_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Colphne_N_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Colphne_N_Uneasy_01.exp3.json",
+				"Name": "Uneasy",
 				"File": "expressions/EMO_Colphne_N_Uneasy_01.exp3.json"
 			}
 		],

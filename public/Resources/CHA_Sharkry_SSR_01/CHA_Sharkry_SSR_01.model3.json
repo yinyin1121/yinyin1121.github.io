@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Sharkry_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Sharkry_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Sharkry_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sharkry_Cute_01.exp3.json",
+				"Name": "Cute",
 				"File": "expressions/EMO_Sharkry_Cute_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sharkry_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Sharkry_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sharkry_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Sharkry_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sharkry_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Sharkry_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sharkry_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Sharkry_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sharkry_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Sharkry_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sharkry_Smirk_01.exp3.json",
+				"Name": "Smirk",
 				"File": "expressions/EMO_Sharkry_Smirk_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sharkry_Surpries_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Sharkry_Surpries_01.exp3.json"
 			}
 		],

@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Voymastina_SSR_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Voymastina_Astonish_01.exp3.json",
+				"Name": "Astonish",
 				"File": "expressions/EMO_Voymastina_Astonish_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Voymastina_Disagree_01.exp3.json",
+				"Name": "Disagree",
 				"File": "expressions/EMO_Voymastina_Disagree_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Voymastina_Eager_01.exp3.json",
+				"Name": "Eager",
 				"File": "expressions/EMO_Voymastina_Eager_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Voymastina_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Voymastina_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Voymastina_Satisfied_01.exp3.json",
+				"Name": "Satisfied",
 				"File": "expressions/EMO_Voymastina_Satisfied_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Voymastina_Supperss_01.exp3.json",
+				"Name": "Supperss",
 				"File": "expressions/EMO_Voymastina_Supperss_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Voymastina_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Voymastina_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Voymastina_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Voymastina_Think_01.exp3.json"
 			}
 		],

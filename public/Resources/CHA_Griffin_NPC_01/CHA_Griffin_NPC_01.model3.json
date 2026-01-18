@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Griffin_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Griffin_Discontent_01.exp3.json",
+				"Name": "Discontent",
 				"File": "expressions/EMO_Griffin_Discontent_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Griffin_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Griffin_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Griffin_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Griffin_Smile_01.exp3.json"
 			}
 		],

@@ -8,23 +8,23 @@
 		"DisplayInfo": "CHA_Rosaline_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Rosaline_Helpless_01",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Rosaline_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Rosaline_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Rosaline_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Rosaline_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Rosaline_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Rosaline_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Rosaline_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Rosaline_worry_01",
+				"Name": "Worried",
 				"File": "expressions/EMO_Rosaline_worry_01.exp3.json"
 			}
 		],

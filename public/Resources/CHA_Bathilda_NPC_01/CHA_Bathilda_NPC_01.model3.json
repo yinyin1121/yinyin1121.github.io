@@ -8,27 +8,27 @@
 		"DisplayInfo": "CHA_Bathilda_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Bathilda_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Bathilda_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Bathilda_Annoyed_01.exp3.json",
+				"Name": "Annoyed",
 				"File": "expressions/EMO_Bathilda_Annoyed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Bathilda_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Bathilda_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Bathilda_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Bathilda_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Bathilda_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Bathilda_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Bathilda_Worry_01.exp3.json",
+				"Name": "Worried",
 				"File": "expressions/EMO_Bathilda_Worry_01.exp3.json"
 			}
 		],

@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Sabrina_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Sabrina_Embarrassed_01.exp3.json",
+				"Name": "Embarrassed",
 				"File": "expressions/EMO_Sabrina_Embarrassed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sabrina_Excited_01.exp3.json",
+				"Name": "Excited",
 				"File": "expressions/EMO_Sabrina_Excited_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sabrina_happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Sabrina_happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sabrina_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Sabrina_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sabrina_Nervous_01.exp3.json",
+				"Name": "Nervous",
 				"File": "expressions/EMO_Sabrina_Nervous_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sabrina_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Sabrina_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sabrina_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Sabrina_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sabrina_Thinking_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Sabrina_Thinking_01.exp3.json"
 			}
 		],

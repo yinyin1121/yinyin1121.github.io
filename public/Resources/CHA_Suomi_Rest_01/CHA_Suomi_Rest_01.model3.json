@@ -8,43 +8,43 @@
 		"DisplayInfo": "CHA_Suomi_Rest_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Suomi_Awkwar_01",
+				"Name": "Awkward",
 				"File": "expressions/EMO_Suomi_Awkwar_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Confused_01",
+				"Name": "Confused",
 				"File": "expressions/EMO_Suomi_Confused_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Cry_01",
+				"Name": "Cry",
 				"File": "expressions/EMO_Suomi_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Disapponintment_01",
+				"Name": "Disappointment",
 				"File": "expressions/EMO_Suomi_Disapponintment_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Eager_01",
+				"Name": "Eager",
 				"File": "expressions/EMO_Suomi_Eager_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Suomi_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Panic_01",
+				"Name": "Panic",
 				"File": "expressions/EMO_Suomi_Panic_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Suomi_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Suomi_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Suomi_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Suomi_Think_01.exp3.json"
 			}
 		],

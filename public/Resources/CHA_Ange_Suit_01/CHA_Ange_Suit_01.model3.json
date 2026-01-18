@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Ange_Suit_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Ange_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Ange_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ange_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Ange_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ange_Pain_01.exp3.json",
+				"Name": "Pain",
 				"File": "expressions/EMO_Ange_Pain_01.exp3.json"
 			}
 		]

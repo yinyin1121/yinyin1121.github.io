@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Daiyan_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Daiyan_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Daiyan_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Daiyan_Eager_01.exp3.json",
+				"Name": "Eager",
 				"File": "expressions/EMO_Daiyan_Eager_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Daiyan_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Daiyan_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Daiyan_Helpless_01.exp3.json",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Daiyan_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Daiyan_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Daiyan_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Daiyan_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Daiyan_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Daiyan_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Daiyan_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Daiyan_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Daiyan_Surprised_01.exp3.json"
 			}
 		],

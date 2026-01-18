@@ -8,27 +8,27 @@
 		"DisplayInfo": "CHA_AnshangQ_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Anshang_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Anshang_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Anshang_Despair_01.exp3.json",
+				"Name": "Despair",
 				"File": "expressions/EMO_Anshang_Despair_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Anshang_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Anshang_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Anshang_Panic_01.exp3.json",
+				"Name": "Panic",
 				"File": "expressions/EMO_Anshang_Panic_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Anshang_Proud_01.exp3.json",
+				"Name": "Proud",
 				"File": "expressions/EMO_Anshang_Proud_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Anshang_Thinking_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Anshang_Thinking_01.exp3.json"
 			}
 		],

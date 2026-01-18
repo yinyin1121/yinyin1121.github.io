@@ -8,23 +8,23 @@
 		"DisplayInfo": "greencat.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "cat_embarrassed.exp3.json",
+				"Name": "embarrassed",
 				"File": "expressions/cat_embarrassed.exp3.json"
 			},
 			{
-				"Name": "cat_laugh.exp3.json",
+				"Name": "laugh",
 				"File": "expressions/cat_laugh.exp3.json"
 			},
 			{
-				"Name": "cat_proud.exp3.json",
+				"Name": "proud",
 				"File": "expressions/cat_proud.exp3.json"
 			},
 			{
-				"Name": "cat_standby.exp3.json",
+				"Name": "standby",
 				"File": "expressions/cat_standby.exp3.json"
 			},
 			{
-				"Name": "cat_starry.exp3.json",
+				"Name": "starry",
 				"File": "expressions/cat_starry.exp3.json"
 			}
 		],

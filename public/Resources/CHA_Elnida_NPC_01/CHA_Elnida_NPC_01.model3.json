@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Elnida_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Elnida_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Elnida_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Elnida_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Elnida_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Elnida_Laugh_01",
+				"Name": "Laugh",
 				"File": "expressions/EMO_Elnida_Laugh_01.exp3.json"
 			}
 		],

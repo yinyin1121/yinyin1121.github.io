@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Lenten_NPC_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO__Lenten_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO__Lenten_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO__Lenten_idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO__Lenten_idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO__Lenten_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO__Lenten_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO__Lenten_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO__Lenten_Surprised_01.exp3.json"
 			}
 		],

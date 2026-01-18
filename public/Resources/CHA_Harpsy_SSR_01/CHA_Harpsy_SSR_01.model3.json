@@ -8,47 +8,47 @@
 		"DisplayInfo": "CHA_Harpsy_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Harpsy_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Harpsy_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Cry_01.exp3.json",
+				"Name": "Cry",
 				"File": "expressions/EMO_Harpsy_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Harpsy_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Harpsy_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Panic_01.exp3.json",
+				"Name": "Panic",
 				"File": "expressions/EMO_Harpsy_Panic_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Harpsy_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Harpsy_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Harpsy_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Harpsy_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Harpsy_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Harpsy_Worried_01.exp3.json",
+				"Name": "Worried",
 				"File": "expressions/EMO_Harpsy_Worried_01.exp3.json"
 			}
 		]

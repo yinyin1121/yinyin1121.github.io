@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Havier_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Havier_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Havier_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Havier_Relax_01.exp3.json",
+				"Name": "Relax",
 				"File": "expressions/EMO_Havier_Relax_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Havier_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Havier_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Havier_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Havier_Think_01.exp3.json"
 			}
 		],

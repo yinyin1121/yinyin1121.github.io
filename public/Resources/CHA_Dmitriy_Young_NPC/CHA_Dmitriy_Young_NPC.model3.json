@@ -8,23 +8,23 @@
 		"DisplayInfo": "CHA_Dmitriy_Young_NPC.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Dmitriy_Young_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Dmitriy_Young_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Young_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Dmitriy_Young_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Young_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Dmitriy_Young_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Young_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Dmitriy_Young_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Young_Sorrow_01.exp3.json",
+				"Name": "Sorrow",
 				"File": "expressions/EMO_Dmitriy_Young_Sorrow_01.exp3.json"
 			}
 		],

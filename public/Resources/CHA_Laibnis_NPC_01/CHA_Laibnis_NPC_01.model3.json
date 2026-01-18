@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Laibnis_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Laibnis_Against_01.exp3.json",
+				"Name": "Against",
 				"File": "expressions/EMO_Laibnis_Against_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Laibnis_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Laibnis_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Laibnis_Proud_01.exp3.json",
+				"Name": "Proud",
 				"File": "expressions/EMO_Laibnis_Proud_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Laibnis_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Laibnis_Surprised_01.exp3.json"
 			}
 		],

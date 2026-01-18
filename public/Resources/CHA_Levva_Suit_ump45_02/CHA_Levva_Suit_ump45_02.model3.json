@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Levva_Suit_ump45_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Levva_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Levva_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Struggle_01.exp3.json",
+				"Name": "Struggle",
 				"File": "expressions/EMO_Levva_Struggle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Worry_01.exp3.json",
+				"Name": "Worry",
 				"File": "expressions/EMO_Levva_Worry_01.exp3.json"
 			}
 		],

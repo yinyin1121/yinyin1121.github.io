@@ -8,7 +8,7 @@
 		"DisplayInfo": "CHA_Yellow_FemaleWorker_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Yellow_FemaleWorker_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Yellow_FemaleWorker_Idle_01.exp3.json"
 			}
 		],

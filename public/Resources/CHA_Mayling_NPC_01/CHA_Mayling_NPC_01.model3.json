@@ -8,51 +8,51 @@
 		"DisplayInfo": "CHA_Mayling_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Mayling_NPC_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Mayling_NPC_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Drunk_01.exp3.json",
+				"Name": "Drunk",
 				"File": "expressions/EMO_Mayling_NPC_Drunk_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Exhausted_01.exp3.json",
+				"Name": "Exhausted",
 				"File": "expressions/EMO_Mayling_NPC_Exhausted_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Mayling_NPC_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Mayling_NPC_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Scared_01.exp3.json",
+				"Name": "Scared",
 				"File": "expressions/EMO_Mayling_NPC_Scared_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Mayling_NPC_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Shy_01.exp3.json",
+				"Name": "Shy",
 				"File": "expressions/EMO_Mayling_NPC_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Mayling_NPC_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Mayling_NPC_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Tentative_01.exp3.json",
+				"Name": "Tentative",
 				"File": "expressions/EMO_Mayling_NPC_Tentative_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mayling_NPC_Vigilant_01.exp3.json",
+				"Name": "Vigilant",
 				"File": "expressions/EMO_Mayling_NPC_Vigilant_01.exp3.json"
 			}
 		],

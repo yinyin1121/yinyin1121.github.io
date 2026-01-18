@@ -8,51 +8,51 @@
 		"DisplayInfo": "CHA_Levva_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Levva_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Levva_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Cry_01",
+				"Name": "Cry",
 				"File": "expressions/EMO_Levva_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Determined_01",
+				"Name": "Determined",
 				"File": "expressions/EMO_Levva_Determined_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Happy_01",
+				"Name": "Happy",
 				"File": "expressions/EMO_Levva_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Helpless_01",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Levva_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Levva_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Ridicule_01",
+				"Name": "Ridicule",
 				"File": "expressions/EMO_Levva_Ridicule_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Smirk_01",
+				"Name": "Smirk",
 				"File": "expressions/EMO_Levva_Smirk_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Solemn_01",
+				"Name": "Solemn",
 				"File": "expressions/EMO_Levva_Solemn_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Levva_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Suspect_01",
+				"Name": "Suspect",
 				"File": "expressions/EMO_Levva_Suspect_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Tender_01",
+				"Name": "Tender",
 				"File": "expressions/EMO_Levva_Tender_01.exp3.json"
 			}
 		],

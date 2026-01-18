@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_ManagerB_NPC_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "CHA_ManagerB_Angry_02.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/CHA_ManagerB_Angry_02.exp3.json"
 			},
 			{
-				"Name": "CHA_ManagerB_Idle_02.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/CHA_ManagerB_Idle_02.exp3.json"
 			}
 		],

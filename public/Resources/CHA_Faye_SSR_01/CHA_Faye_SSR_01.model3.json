@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Faye_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Faye_Freeze_01",
+				"Name": "Freeze",
 				"File": "expressions/EMO_Faye_Freeze_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Faye_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Faye_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Faye_Irascible_01",
+				"Name": "Irascible",
 				"File": "expressions/EMO_Faye_Irascible_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Faye_Regretting_01",
+				"Name": "Regret",
 				"File": "expressions/EMO_Faye_Regretting_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Faye_Shy_01",
+				"Name": "Shy",
 				"File": "expressions/EMO_Faye_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Faye_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Faye_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Faye_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Faye_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Faye_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Faye_Think_01.exp3.json"
 			}
 		],

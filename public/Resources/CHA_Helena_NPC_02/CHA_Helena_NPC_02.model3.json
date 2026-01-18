@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Helena_NPC_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Helena_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Helena_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helena_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Helena_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helena_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Helena_Surprised_01.exp3.json"
 			}
 		],

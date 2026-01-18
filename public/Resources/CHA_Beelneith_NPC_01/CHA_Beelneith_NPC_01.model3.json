@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Beelneith_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Beelneith_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Beelneith_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Beelneith_Mad_01",
+				"Name": "Mad",
 				"File": "expressions/EMO_Beelneith_Mad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Beelneith_Surperise_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Beelneith_Surperise_01.exp3.json"
 			}
 		]

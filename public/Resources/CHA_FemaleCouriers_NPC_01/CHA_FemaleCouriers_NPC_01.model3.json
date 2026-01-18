@@ -8,7 +8,7 @@
 		"DisplayInfo": "CHA_FemaleCouriers_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_FemaleCouriers_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_FemaleCouriers_Idle_01.exp3.json"
 			}
 		],

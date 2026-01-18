@@ -8,63 +8,63 @@
 		"DisplayInfo": "CHA_Biyoca_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Biyoca_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Biyoca_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Doubt_01.exp3.json",
+				"Name": "Doubt",
 				"File": "expressions/EMO_Biyoca_Doubt_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Excited_01.exp3.json",
+				"Name": "Excited",
 				"File": "expressions/EMO_Biyoca_Excited_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Biyoca_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Pain_01.exp3.json",
+				"Name": "Pain",
 				"File": "expressions/EMO_Biyoca_Pain_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Pretend_01.exp3.json",
+				"Name": "Pretend",
 				"File": "expressions/EMO_Biyoca_Pretend_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Biyoca_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Shock_01.exp3.json",
+				"Name": "Shock",
 				"File": "expressions/EMO_Biyoca_Shock_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Biyoca_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Smirk_01.exp3.json",
+				"Name": "Smirk",
 				"File": "expressions/EMO_Biyoca_Smirk_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Sorrow.exp3.json",
+				"Name": "Sorrow",
 				"File": "expressions/EMO_Biyoca_Sorrow.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Biyoca_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Biyoca_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Wronged_01.exp3.json",
+				"Name": "Wronged",
 				"File": "expressions/EMO_Biyoca_Wronged_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Biyoca_Weak.exp3.json",
+				"Name": "Weak",
 				"File": "expressions/EMO_Biyoca_Weak.exp3.json"
 			}
 		],

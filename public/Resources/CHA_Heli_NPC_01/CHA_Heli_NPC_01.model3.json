@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_Heli_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Heli_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Heli_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Heli_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Heli_Think_01.exp3.json"
 			}
 		],

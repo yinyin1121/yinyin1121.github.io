@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Ksenia_SR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Ksenia_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "exopressions/EMO_Ksenia_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ksenia_Helplsee_01.exp3.json",
+				"Name": "Helpless",
 				"File": "exopressions/EMO_Ksenia_Helplsee_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ksenia_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "exopressions/EMO_Ksenia_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ksenia_Nervous_01.exp3.json",
+				"Name": "Nervous",
 				"File": "exopressions/EMO_Ksenia_Nervous_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ksenia_Shy_01.exp3.json",
+				"Name": "Shy",
 				"File": "exopressions/EMO_Ksenia_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ksenia_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "exopressions/EMO_Ksenia_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ksenia_Smirk_01.exp3.json",
+				"Name": "Smirk",
 				"File": "exopressions/EMO_Ksenia_Smirk_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ksenia_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "exopressions/EMO_Ksenia_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ksenia_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "exopressions/EMO_Ksenia_Think_01.exp3.json"
 			}
 		],

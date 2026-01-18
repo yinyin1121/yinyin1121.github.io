@@ -8,31 +8,31 @@
 		"DisplayInfo": "CHA_G41_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_G41_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_G41_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_G41_Hostile_01.exp3.json",
+				"Name": "Hostile",
 				"File": "expressions/EMO_G41_Hostile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_G41_Hostile_02.exp3.json",
+				"Name": "Hostile2",
 				"File": "expressions/EMO_G41_Hostile_02.exp3.json"
 			},
 			{
-				"Name": "EMO_G41_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_G41_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_G41_Nervous_01.exp3.json",
+				"Name": "Nervous",
 				"File": "expressions/EMO_G41_Nervous_01.exp3.json"
 			},
 			{
-				"Name": "EMO_G41_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_G41_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_G41_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_G41_Serious_01.exp3.json"
 			}
 		],

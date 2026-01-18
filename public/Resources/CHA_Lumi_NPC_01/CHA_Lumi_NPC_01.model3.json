@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Lumi_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Lumi_Excited_01",
+				"Name": "Excited",
 				"File": "expressions/EMO_Lumi_Excited_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lumi_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Lumi_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lumi_Loss_01",
+				"Name": "Loss",
 				"File": "expressions/EMO_Lumi_Loss_01.exp3.json"
 			}
 		],

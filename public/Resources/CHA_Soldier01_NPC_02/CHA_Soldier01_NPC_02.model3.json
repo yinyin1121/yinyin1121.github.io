@@ -8,7 +8,7 @@
 		"DisplayInfo": "CHA_Soldier01_NPC_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Soldier01_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Soldier01_Idle_01.exp3.json"
 			}
 		]

@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Drachen_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Aminda_Helpless_01",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Aminda_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Aminda_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Aminda_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Aminda_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Aminda_Surprised_01.exp3.json"
 			}
 		],

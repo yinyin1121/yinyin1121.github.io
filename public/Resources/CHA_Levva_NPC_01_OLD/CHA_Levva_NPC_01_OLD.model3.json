@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Levva_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Levva_Helpless_01.exp3.json",
+				"Name": "Helpless",
 				"File": "expresstions/EMO_Levva_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expresstions/EMO_Levva_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Solemn_01.exp3.json",
+				"Name": "Solemn",
 				"File": "expresstions/EMO_Levva_Solemn_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Levva_Tender_01.exp3.json",
+				"Name": "Tender",
 				"File": "expresstions/EMO_Levva_Tender_01.exp3.json"
 			}
 		],

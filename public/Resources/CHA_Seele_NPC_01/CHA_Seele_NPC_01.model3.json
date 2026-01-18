@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_Seele_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Seele_Happy_01",
+				"Name": "Happy",
 				"File": "expressions/EMO_Seele_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Seele_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Seele_Idle_01.exp3.json"
 			}
 		],

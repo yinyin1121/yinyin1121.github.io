@@ -8,71 +8,71 @@
 		"DisplayInfo": "CHA_Clukay_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Clukay_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Clukay_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Bashful_01.exp3.json",
+				"Name": "Bashful",
 				"File": "expressions/EMO_Clukay_Bashful_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Cry_01.exp3.json",
+				"Name": "Cry",
 				"File": "expressions/EMO_Clukay_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Clukay_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Helpless_01.exp3.json",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Clukay_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Clukay_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Pain_01.exp3.json",
+				"Name": "Pain",
 				"File": "expressions/EMO_Clukay_Pain_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Proud_01.exp3.json",
+				"Name": "Proud",
 				"File": "expressions/EMO_Clukay_Proud_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Clukay_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Shock_01.exp3.json",
+				"Name": "Shock",
 				"File": "expressions/EMO_Clukay_Shock_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_shy_01.exp3.json",
+				"Name": "Shy",
 				"File": "expressions/EMO_Clukay_shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Clukay_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Sorrow_01.exp3.json",
+				"Name": "Sorrow",
 				"File": "expressions/EMO_Clukay_Sorrow_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Clukay_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Clukay_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Vigilant_01.exp3.json",
+				"Name": "Vigilant",
 				"File": "expressions/EMO_Clukay_Vigilant_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Clukay_Worried_01.exp3.json",
+				"Name": "Worried",
 				"File": "expressions/EMO_Clukay_Worried_01.exp3.json"
 			}
 		],

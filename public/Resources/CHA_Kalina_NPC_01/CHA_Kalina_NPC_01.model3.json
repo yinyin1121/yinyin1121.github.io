@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Kalina_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Kalina_Helpless_01",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Kalina_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Kalina_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Indifferent_01",
+				"Name": "Indifferent",
 				"File": "expressions/EMO_Kalina_Indifferent_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Sneer_01",
+				"Name": "Sneer",
 				"File": "expressions/EMO_Kalina_Sneer_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Solemn_01",
+				"Name": "Solemn",
 				"File": "expressions/EMO_Kalina_Solemn_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Kalina_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Tender_01",
+				"Name": "Tender",
 				"File": "expressions/EMO_Kalina_Tender_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Kalina_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Worry_01",
+				"Name": "Worry",
 				"File": "expressions/EMO_Kalina_Worry_01.exp3.json"
 			}
 		],

@@ -8,7 +8,7 @@
 		"DisplayInfo": "CHA_URNCofficer_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_URNCofficer_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_URNCofficer_Idle_01.exp3.json"
 			}
 		],

@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Springfield_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Springfield_happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "exopressions/EMO_Springfield_happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Springfield_Helpless_01.exp3.json",
+				"Name": "Helpless",
 				"File": "exopressions/EMO_Springfield_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Springfield_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "exopressions/EMO_Springfield_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Springfield_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "exopressions/EMO_Springfield_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Springfield_Smirk_01.exp3.json",
+				"Name": "Smirk",
 				"File": "exopressions/EMO_Springfield_Smirk_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Springfield_Solemn_01.exp3.json",
+				"Name": "Solemn",
 				"File": "exopressions/EMO_Springfield_Solemn_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Springfield_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "exopressions/EMO_Springfield_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Springfield_Thinking_01.exp3.json",
+				"Name": "Think",
 				"File": "exopressions/EMO_Springfield_Thinking_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Springfield_Wink_01.exp3.json",
+				"Name": "Wink",
 				"File": "exopressions/EMO_Springfield_Wink_01.exp3.json"
 			}
 		],

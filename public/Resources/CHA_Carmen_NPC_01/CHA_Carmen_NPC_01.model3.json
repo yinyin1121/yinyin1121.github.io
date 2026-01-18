@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Carmen_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Carmen_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Carmen_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Carmen_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Carmen_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Carmen_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Carmen_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Carmen_Smile_02.exp3.json",
+				"Name": "Smile02",
 				"File": "expressions/EMO_Carmen_Smile_02.exp3.json"
 			}
 		],

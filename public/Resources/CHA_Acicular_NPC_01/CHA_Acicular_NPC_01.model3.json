@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Acicular_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Acicular_Amazing_01.exp3.json",
+				"Name": "Amazing",
 				"File": "expressions/EMO_Acicular_Amazing_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Acicular_Anxiously_01.exp3.json",
+				"Name": "Anxiously",
 				"File": "expressions/EMO_Acicular_Anxiously_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Acicular_Disdain_01.exp3.json",
+				"Name": "Disdain",
 				"File": "expressions/EMO_Acicular_Disdain_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Acicular_Doting_01.exp3.json",
+				"Name": "Doting",
 				"File": "expressions/EMO_Acicular_Doting_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Acicular_Emotionally_01.exp3.json",
+				"Name": "Emotionally",
 				"File": "expressions/EMO_Acicular_Emotionally_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Acicular_Fake_01.exp3.json",
+				"Name": "Fake",
 				"File": "expressions/EMO_Acicular_Fake_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Acicular_Gloomy_01.exp3.json",
+				"Name": "Gloomy",
 				"File": "expressions/EMO_Acicular_Gloomy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Acicular_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Acicular_Idle_01.exp3.json"
 			}
 		],

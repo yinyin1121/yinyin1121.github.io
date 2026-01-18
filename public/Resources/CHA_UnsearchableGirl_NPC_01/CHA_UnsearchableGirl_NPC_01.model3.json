@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_UnsearchableGirl_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_UnsearchableGirl_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_UnsearchableGirl_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_UnsearchableGirl_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_UnsearchableGirl_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_UnsearchableGirl_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_UnsearchableGirl_Smile_01.exp3.json"
 			}
 		],
