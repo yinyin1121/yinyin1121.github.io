@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Cheyanne_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Cheyanne_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Cheyanne_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cheyanne_Depression_01",
+				"Name": "Depression",
 				"File": "expressions/EMO_Cheyanne_Depression_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cheyanne_Happy_01",
+				"Name": "Happy",
 				"File": "expressions/EMO_Cheyanne_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cheyanne_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Cheyanne_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cheyanne_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Cheyanne_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cheyanne_Shy_01",
+				"Name": "Shy",
 				"File": "expressions/EMO_Cheyanne_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cheyanne_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Cheyanne_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cheyanne_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Cheyanne_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cheyanne_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Cheyanne_Think_01.exp3.json"
 			}
 		],

@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Lydia_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "CHA_Lydia_Gusty_01",
+				"Name": "Gutsy",
 				"File": "expressions/CHA_Lydia_Gusty_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Lydia_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/CHA_Lydia_Idle_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Lydia_Scold_01",
+				"Name": "Scold",
 				"File": "expressions/CHA_Lydia_Scold_01.exp3.json"
 			}
 		],

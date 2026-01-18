@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Persicaria_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Persicaria_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expresstions/EMO_Persicaria_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Persicaria_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expresstions/EMO_Persicaria_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Persicaria_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expresstions/EMO_Persicaria_Think_01.exp3.json"
 			}
 		],

@@ -8,31 +8,31 @@
 		"DisplayInfo": "CHA_Helen_Suit_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Helen_Gentle_01.exp3.json",
+				"Name": "Gentle",
 				"File": "expressions/EMO_Helen_Gentle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helen_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Helen_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helen_However_01.exp3.json",
+				"Name": "However",
 				"File": "expressions/EMO_Helen_However_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helen_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Helen_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helen_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Helen_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helen_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Helen_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Helen_Surprise_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Helen_Surprise_01.exp3.json"
 			}
 		],

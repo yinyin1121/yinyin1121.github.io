@@ -8,27 +8,27 @@
 		"DisplayInfo": "CHA_Orpheoreon_Kid_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "CHA_Orpheoreon_Amazing_01",
+				"Name": "Amazing",
 				"File": "expressions/CHA_Orpheoreon_Amazing_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Orpheoreon_Cry_01",
+				"Name": "Cry",
 				"File": "expressions/CHA_Orpheoreon_Cry_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Orpheoreon_Dislike_01",
+				"Name": "Dislike",
 				"File": "expressions/CHA_Orpheoreon_Dislike_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Orpheoreon_Happy_01",
+				"Name": "Happy",
 				"File": "expressions/CHA_Orpheoreon_Happy_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Orpheoreon_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/CHA_Orpheoreon_Idle_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Orpheoreon_Sad_01",
+				"Name": "Sad",
 				"File": "expressions/CHA_Orpheoreon_Sad_01.exp3.json"
 			}
 		],

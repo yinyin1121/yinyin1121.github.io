@@ -9,43 +9,43 @@
 		"DisplayInfo": "CHA_Dmitriy_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Dmitriy_Angry_01.exp3.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Dmitriy_Angry_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Idle_01.exp3.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Dmitriy_Idle_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Jolly_01.exp3.exp3.json",
+				"Name": "Jolly",
 				"File": "expressions/EMO_Dmitriy_Jolly_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Pain_01.exp3.exp3.json",
+				"Name": "Pain",
 				"File": "expressions/EMO_Dmitriy_Pain_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Rage_01.exp3.exp3.json",
+				"Name": "Rage",
 				"File": "expressions/EMO_Dmitriy_Rage_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Serious_01.exp3.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Dmitriy_Serious_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Smile_01.exp3.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Dmitriy_Smile_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Surprised_01.exp3.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Dmitriy_Surprised_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Think_01.exp3.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Dmitriy_Think_01.exp3.exp3.json"
 			},
 			{
-				"Name": "EMO_Dmitriy_Weak_01.exp3.exp3.json",
+				"Name": "Weak",
 				"File": "expressions/EMO_Dmitriy_Weak_01.exp3.exp3.json"
 			}
 		],

@@ -8,23 +8,23 @@
 		"DisplayInfo": "CHA_Peritya_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Peritya_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Peritya_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Peritya_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Peritya_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Peritya_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Peritya_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Peritya_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Peritya_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Peritya_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Peritya_Think_01.exp3.json"
 			}
 		],

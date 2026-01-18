@@ -8,23 +8,23 @@
 		"DisplayInfo": "CHA_Kryuger_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Kryuger_Gloomy_01",
+				"Name": "Gloomy",
 				"File": "expressions/EMO_Kryuger_Gloomy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kryuger_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Kryuger_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kryuger_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Kryuger_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kryuger_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Kryuger_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kryuger_Think_01",
+				"Name": "Think",
 				"File": "expressions/EMO_Kryuger_Think_01.exp3.json"
 			}
 		],

@@ -8,31 +8,31 @@
 		"DisplayInfo": "CHA_Qiuhua_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Qiuhua_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Qiuhua_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Qiuhua_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Qiuhua_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Qiuhua_Loss_01.exp3.json",
+				"Name": "Loss",
 				"File": "expressions/EMO_Qiuhua_Loss_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Qiuhua_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Qiuhua_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Qiuhua_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Qiuhua_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Qiuhua_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Qiuhua_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Qiuhua_Yummy_01.exp3.json",
+				"Name": "Yummy",
 				"File": "expressions/EMO_Qiuhua_Yummy_01.exp3.json"
 			}
 		],

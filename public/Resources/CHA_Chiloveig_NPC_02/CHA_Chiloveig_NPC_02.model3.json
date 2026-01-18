@@ -8,27 +8,27 @@
 		"DisplayInfo": "CHA_Chiloveig_NPC_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Chiloveig_Challenge_02",
+				"Name": "Challenge",
 				"File": "expressions/EMO_Chiloveig_Challenge_02.exp3.json"
 			},
 			{
-				"Name": "EMO_Chiloveig_Curious_02",
+				"Name": "Curious",
 				"File": "expressions/EMO_Chiloveig_Curious_02.exp3.json"
 			},
 			{
-				"Name": "EMO_Chiloveig_Idle_02",
+				"Name": "Idle",
 				"File": "expressions/EMO_Chiloveig_Idle_02.exp3.json"
 			},
 			{
-				"Name": "EMO_Chiloveig_Laugh_02",
+				"Name": "Laugh",
 				"File": "expressions/EMO_Chiloveig_Laugh_02.exp3.json"
 			},
 			{
-				"Name": "EMO_Chiloveig_Smile_02",
+				"Name": "Smile",
 				"File": "expressions/EMO_Chiloveig_Smile_02.exp3.json"
 			},
 			{
-				"Name": "EMO_Chiloveig_Surprise_02",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Chiloveig_Surprise_02.exp3.json"
 			}
 		],

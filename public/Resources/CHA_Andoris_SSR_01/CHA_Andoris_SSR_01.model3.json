@@ -8,47 +8,47 @@
 		"DisplayInfo": "CHA_Andoris_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Andoris_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "exopressions/EMO_Andoris_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Confused_01.exp3.json",
+				"Name": "Confused",
 				"File": "exopressions/EMO_Andoris_Confused_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Freeze_01.exp3.json",
+				"Name": "Freeze",
 				"File": "exopressions/EMO_Andoris_Freeze_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "exopressions/EMO_Andoris_happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "exopressions/EMO_Andoris_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Pain_01.exp3.json",
+				"Name": "Pain",
 				"File": "exopressions/EMO_Andoris_Pain_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "exopressions/EMO_Andoris_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "exopressions/EMO_Andoris_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Tender_01.exp3.json",
+				"Name": "Tender",
 				"File": "exopressions/EMO_Andoris_Tender_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "exopressions/EMO_Andoris_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Andoris_Worry_01.exp3.json",
+				"Name": "Worry",
 				"File": "exopressions/EMO_Andoris_Worry_01.exp3.json"
 			}
 		],

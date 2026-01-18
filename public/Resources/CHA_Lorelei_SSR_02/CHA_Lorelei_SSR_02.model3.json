@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Lorelei_SSR_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Lorelei_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Lorelei_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lorelei_Charm_01",
+				"Name": "Charm",
 				"File": "expressions/EMO_Lorelei_Charm_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lorelei_Desire_01",
+				"Name": "Desire",
 				"File": "expressions/EMO_Lorelei_Desire_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lorelei_Happy_01",
+				"Name": "Happy",
 				"File": "expressions/EMO_Lorelei_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lorelei_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Lorelei_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lorelei_Smirk_01",
+				"Name": "Smirk",
 				"File": "expressions/EMO_Lorelei_Smirk_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lorelei_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Lorelei_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lorelei_Worried_01",
+				"Name": "Worried",
 				"File": "expressions/EMO_Lorelei_Worried_01.exp3.json"
 			}
 		],

@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_EngineerA_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_EngineerA_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_EngineerA_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_EngineerA_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_EngineerA_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_EngineerA_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_EngineerA_Smile_01.exp3.json"
 			}
 		],

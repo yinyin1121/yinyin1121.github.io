@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Papasha_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Papasha_Embarrassed_01.exp3.json",
+				"Name": "Embarrassed",
 				"File": "expressions/EMO_Papasha_Embarrassed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Papasha_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Papasha_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Papasha_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Papasha_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Papasha_Nervous_01.exp3.json",
+				"Name": "Nervous",
 				"File": "expressions/EMO_Papasha_Nervous_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Papasha_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Papasha_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Papasha_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Papasha_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Papasha_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Papasha_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Papasha_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Papasha_Think_01.exp3.json"
 			}
 		],

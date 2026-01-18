@@ -8,7 +8,7 @@
 		"DisplayInfo": "CHA_Blusphere_NPC_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Blusphere_Idel_02.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Blusphere_Idel_02.exp3.json"
 			}
 		],

@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Welrod_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Welrod_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Welrod_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Welrod_Bored_01",
+				"Name": "Bored",
 				"File": "expressions/EMO_Welrod_Bored_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Welrod_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Welrod_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Welrod_Ridicule_01",
+				"Name": "Ridicule",
 				"File": "expressions/EMO_Welrod_Ridicule_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Welrod_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Welrod_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Welrod_Shy_01",
+				"Name": "Shy",
 				"File": "expressions/EMO_Welrod_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Welrod_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_Welrod_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Welrod_Sorrow_01",
+				"Name": "Sorrow",
 				"File": "expressions/EMO_Welrod_Sorrow_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Welrod_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Welrod_Surprised_01.exp3.json"
 			}
 		],

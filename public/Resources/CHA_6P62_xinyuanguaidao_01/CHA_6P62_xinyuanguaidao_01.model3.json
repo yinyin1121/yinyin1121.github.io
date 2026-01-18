@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_6P62_xinyuanguaidao_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_xinyuanguaidao_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_xinyuanguaidao_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_xinyuanguaidao_Idel_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_xinyuanguaidao_Idel_01.exp3.json"
 			}
 		]

@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Consignor_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Consignor_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Consignor_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Consignor_Rage_01.exp3.json",
+				"Name": "Rage",
 				"File": "expressions/EMO_Consignor_Rage_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Consignor_Ridicule_01.exp3.json",
+				"Name": "Ridicule",
 				"File": "expressions/EMO_Consignor_Ridicule_01.exp3.json"
 			}
 		],

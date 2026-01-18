@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Basti_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "CHA_Basti_Excited_01",
+				"Name": "Excited",
 				"File": "expressions/CHA_Basti_Excited_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Basti_Happy_01",
+				"Name": "Happy",
 				"File": "expressions/CHA_Basti_Happy_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Basti_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/CHA_Basti_Idle_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Basti_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/CHA_Basti_Serious_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Basti_Sorrowful_01",
+				"Name": "Sorrowful",
 				"File": "expressions/CHA_Basti_Sorrowful_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Basti_Surprise_01",
+				"Name": "Surprised",
 				"File": "expressions/CHA_Basti_Surprise_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Basti_Threaten_01",
+				"Name": "Threaten",
 				"File": "expressions/CHA_Basti_Threaten_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Basti_Upset_01",
+				"Name": "Upset",
 				"File": "expressions/CHA_Basti_Upset_01.exp3.json"
 			}
 		],

@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Davey_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Davey_Crazy_01.exp3.json",
+				"Name": "Crazy",
 				"File": "expressions/EMO_Davey_Crazy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Davey_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Davey_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Davey_Terrified_01.exp3.json",
+				"Name": "Terrified",
 				"File": "expressions/EMO_Davey_Terrified_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Davey_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Davey_Think_01.exp3.json"
 			}
 		],

@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Zimmermann_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Zimmermann_Determined_01.exp3.json",
+				"Name": "Determined",
 				"File": "expressions/EMO_Zimmermann_Determined_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Zimmermann_Helpless_01.exp3.json",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Zimmermann_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Zimmermann_idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Zimmermann_idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Zimmermann_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Zimmermann_Sad_01.exp3.json"
 			}
 		],

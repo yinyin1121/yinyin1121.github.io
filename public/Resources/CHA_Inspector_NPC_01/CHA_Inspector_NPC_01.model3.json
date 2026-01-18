@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_Inspector_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Inspector_Idle_01",
+				"Name": "Idle",
 				"File": "expresstions/EMO_Inspector_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Inspector_Suspect_01",
+				"Name": "Suspect",
 				"File": "expresstions/EMO_Inspector_Suspect_01.exp3.json"
 			}
 		],

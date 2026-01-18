@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Sia_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Sia_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Sia_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sia_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Sia_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sia_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Sia_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sia_Superised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Sia_Superised_01.exp3.json"
 			}
 		],

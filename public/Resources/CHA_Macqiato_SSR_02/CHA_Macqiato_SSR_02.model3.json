@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Macqiato_SSR_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Macqiato_Angry_01  ",
+				"Name": "Angry",
 				"File": "expressions/EMO_Macqiato_Angry_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Macqiato_Awkward_01  ",
+				"Name": "Awkward",
 				"File": "expressions/EMO_Macqiato_Awkward_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Macqiato_Happy_01  ",
+				"Name": "Happy",
 				"File": "expressions/EMO_Macqiato_Happy_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Macqiato_Idle_01  ",
+				"Name": "Idle",
 				"File": "expressions/EMO_Macqiato_Idle_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Macqiato_Proud_01  ",
+				"Name": "Proud",
 				"File": "expressions/EMO_Macqiato_Proud_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Macqiato_Serious_01  ",
+				"Name": "Serious",
 				"File": "expressions/EMO_Macqiato_Serious_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Macqiato_Shy_01  ",
+				"Name": "Shy",
 				"File": "expressions/EMO_Macqiato_Shy_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Macqiato_Surprised_01 ",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Macqiato_Surprised_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Macqiato_Teasing_01  ",
+				"Name": "Teasing",
 				"File": "expressions/EMO_Macqiato_Teasing_01  .exp3.json"
 			}
 		],

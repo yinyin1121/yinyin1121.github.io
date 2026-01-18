@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Dandelion_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Dandelion_Serious.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Dandelion_Serious.exp3.json"
 			},
 			{
-				"Name": "EMO_Dandelion_smile.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Dandelion_smile.exp3.json"
 			},
 			{
-				"Name": "EMO_Dandelion_Idle.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Dandelion_Idle.exp3.json"
 			}
 		],

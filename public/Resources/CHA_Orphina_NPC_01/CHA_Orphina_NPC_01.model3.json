@@ -8,23 +8,23 @@
 		"DisplayInfo": "CHA_Orphina_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Orphina_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Orphina_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Orphina_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Orphina_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Orphina_Mad_01.exp3.json",
+				"Name": "Mad",
 				"File": "expressions/EMO_Orphina_Mad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Orphina_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Orphina_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Orphina_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Orphina_Think_01.exp3.json"
 			}
 		],

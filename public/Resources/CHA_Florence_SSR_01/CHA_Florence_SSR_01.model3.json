@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Florence_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Florence_Angry_01",
+				"Name": "Angry",
 				"File": "expressions/EMO_Florence_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Florence_Bear_01",
+				"Name": "Bear",
 				"File": "expressions/EMO_Florence_Bear_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Florence_Excited_01",
+				"Name": "Excited",
 				"File": "expressions/EMO_Florence_Excited_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Florence_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Florence_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Florence_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Florence_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Florence_Shamed_01",
+				"Name": "Shamed",
 				"File": "expressions/EMO_Florence_Shamed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Florence_Sorrow_01",
+				"Name": "Sorrow",
 				"File": "expressions/EMO_Florence_Sorrow_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Florence_Surprised_01",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Florence_Surprised_01.exp3.json"
 			}
 		],

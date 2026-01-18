@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Gaia_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Gaia_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Gaia_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Gaia_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Gaia_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Gaia_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Gaia_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Gaia_Shock_01.exp3.json",
+				"Name": "Shock",
 				"File": "expressions/EMO_Gaia_Shock_01.exp3.json"
 			}
 		],

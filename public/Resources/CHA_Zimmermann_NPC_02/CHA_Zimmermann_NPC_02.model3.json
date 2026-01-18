@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_Zimmermann_NPC_02.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Zimmermann_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Zimmermann_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Zimmermann_Ridicule_01.exp3.json",
+				"Name": "Ridicule",
 				"File": "expressions/EMO_Zimmermann_Ridicule_01.exp3.json"
 			}
 		],

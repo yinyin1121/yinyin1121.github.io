@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Sakura_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "CHA_Sakura_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/CHA_Sakura_Angry_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Sakura_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/CHA_Sakura_Happy_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Sakura_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/CHA_Sakura_Idle_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Sakura_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/CHA_Sakura_Sad_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Sakura_Serioous_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/CHA_Sakura_Serioous_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Sakura_Shy_01.exp3.json",
+				"Name": "Shy",
 				"File": "expressions/CHA_Sakura_Shy_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Sakura_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/CHA_Sakura_Smile_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Sakura_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/CHA_Sakura_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Sakura_Upset_01.exp3.json",
+				"Name": "Upset",
 				"File": "expressions/CHA_Sakura_Upset_01.exp3.json"
 			}
 		],

@@ -8,35 +8,35 @@
 		"DisplayInfo": "CHA_Centaureissi_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Centaureissi_Confused_01",
+				"Name": "Confused",
 				"File": "expressions/EMO_Centaureissi_Confused_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Centaureissi_Embarrassed_01  ",
+				"Name": "Embarrassed",
 				"File": "expressions/EMO_Centaureissi_Embarrassed_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Centaureissi_Happy_01  ",
+				"Name": "Happy",
 				"File": "expressions/EMO_Centaureissi_Happy_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Centaureissi_Idle_01  ",
+				"Name": "Idle",
 				"File": "expressions/EMO_Centaureissi_Idle_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Centaureissi_Serious_01",
+				"Name": "Serious",
 				"File": "expressions/EMO_Centaureissi_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Centaureissi_Solemn_01   ",
+				"Name": "Solemn",
 				"File": "expressions/EMO_Centaureissi_Solemn_01   .exp3.json"
 			},
 			{
-				"Name": "EMO_Centaureissi_Surprised_01  ",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Centaureissi_Surprised_01  .exp3.json"
 			},
 			{
-				"Name": "EMO_Centaureissi_Worried_01  ",
+				"Name": "Worried",
 				"File": "expressions/EMO_Centaureissi_Worried_01  .exp3.json"
 			}
 		],

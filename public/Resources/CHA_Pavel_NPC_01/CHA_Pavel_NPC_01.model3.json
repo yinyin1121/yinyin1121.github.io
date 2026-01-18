@@ -8,23 +8,23 @@
 		"DisplayInfo": "CHA_Pavel_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Pavel_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Pavel_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Pavel_Embarrassed_01.exp3.json",
+				"Name": "Embarrassed",
 				"File": "expressions/EMO_Pavel_Embarrassed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Pavel_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Pavel_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Pavel_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Pavel_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Pavel_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Pavel_Surprised_01.exp3.json"
 			}
 		],

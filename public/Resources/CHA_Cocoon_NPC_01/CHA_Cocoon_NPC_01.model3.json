@@ -8,16 +8,20 @@
 		"DisplayInfo": "CHA_Cocoon_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Cocoon_Agree_01.exp3.json",
+				"Name": "Agree",
 				"File": "expressions/EMO_Cocoon_Agree_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cocoon_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Cocoon_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Cocoon_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Cocoon_Think_01.exp3.json"
+			},
+			{
+				"Name": "Serious",
+				"File": "expressions/EMO_Cocoon_Serious_01.exp3.json"
 			}
 		],
 		"Motions": {

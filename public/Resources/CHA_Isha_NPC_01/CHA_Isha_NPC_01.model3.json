@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Isha_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Isha_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Isha_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Isha_Mad_01.exp3.json",
+				"Name": "Mad",
 				"File": "expressions/EMO_Isha_Mad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Isha_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Isha_Sad_01.exp3.json"
 			}
 		],

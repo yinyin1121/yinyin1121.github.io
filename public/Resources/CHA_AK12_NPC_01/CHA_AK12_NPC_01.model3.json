@@ -8,7 +8,7 @@
 		"DisplayInfo": "CHA_AK12_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_ak12_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_ak12_Idle_01.exp3.json"
 			}
 		],

@@ -8,43 +8,43 @@
 		"DisplayInfo": "CHA_Mosinnagant_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Mosinnagant_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "exopressions/EMO_Mosinnagant_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Drunk_01.exp3.json",
+				"Name": "Drunk",
 				"File": "exopressions/EMO_Mosinnagant_Drunk_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "exopressions/EMO_Mosinnagant_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Moved_01.exp3.json",
+				"Name": "Moved",
 				"File": "exopressions/EMO_Mosinnagant_Moved_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Nervous_01.exp3.json",
+				"Name": "Nervous",
 				"File": "exopressions/EMO_Mosinnagant_Nervous_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Regretting_01.exp3.json",
+				"Name": "Regretting",
 				"File": "exopressions/EMO_Mosinnagant_Regretting_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "exopressions/EMO_Mosinnagant_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "exopressions/EMO_Mosinnagant_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "exopressions/EMO_Mosinnagant_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mosinnagant_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "exopressions/EMO_Mosinnagant_Surprised_01.exp3.json"
 			}
 		],

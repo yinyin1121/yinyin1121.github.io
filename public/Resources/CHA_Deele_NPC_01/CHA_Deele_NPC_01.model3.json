@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Deele_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Deele_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Deele_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Deele_Happy_01.exp3.json",
+				"Name": "Happy",
 				"File": "expressions/EMO_Deele_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Deele_Helpless_01.exp3.json",
+				"Name": "Helpless",
 				"File": "expressions/EMO_Deele_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Deele_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Deele_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Deele_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Deele_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Deele_Shy_01.exp3.json",
+				"Name": "Shy",
 				"File": "expressions/EMO_Deele_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Deele_Surprised_01.exp3.json",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Deele_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Deele_Think_01.exp3.json",
+				"Name": "Think",
 				"File": "expressions/EMO_Deele_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Deele_Wry_01.exp3.json",
+				"Name": "Wry",
 				"File": "expressions/EMO_Deele_Wry_01.exp3.json"
 			}
 		],

@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_Fadei_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Fadei_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Fadei_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Fadei_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Fadei_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Fadei_Serious_01.exp3.json",
+				"Name": "Serious",
 				"File": "expressions/EMO_Fadei_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Fadei_Worried_01.exp3.json",
+				"Name": "Worried",
 				"File": "expressions/EMO_Fadei_Worried_01.exp3.json"
 			}
 		],

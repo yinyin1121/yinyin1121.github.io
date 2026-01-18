@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_FacilitatorC_NPC_03.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_FacilitatorC_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_FacilitatorC_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_FacilitatorC_Smile_01",
+				"Name": "Smile",
 				"File": "expressions/EMO_FacilitatorC_Smile_01.exp3.json"
 			}
 		],

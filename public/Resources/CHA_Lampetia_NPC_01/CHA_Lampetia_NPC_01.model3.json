@@ -8,7 +8,7 @@
 		"DisplayInfo": "CHA_Lampetia_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Lampetia_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/EMO_Lampetia_Idle_01.exp3.json"
 			}
 		],

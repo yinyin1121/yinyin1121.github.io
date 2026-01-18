@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Alf_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Alf_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Alf_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Alf_Happiness_01.exp3.json",
+				"Name": "Happiness",
 				"File": "expressions/EMO_Alf_Happiness_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Alf_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Alf_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Alf_Nervous_01.exp3.json",
+				"Name": "Nervous",
 				"File": "expressions/EMO_Alf_Nervous_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Alf_Pain_01.exp3.json",
+				"Name": "Pain",
 				"File": "expressions/EMO_Alf_Pain_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Alf_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Alf_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Alf_Shock_01.exp3.json",
+				"Name": "Shock",
 				"File": "expressions/EMO_Alf_Shock_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Alf_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Alf_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Alf_Vigilant_01.exp3.json",
+				"Name": "Vigilant",
 				"File": "expressions/EMO_Alf_Vigilant_01.exp3.json"
 			}
 		],

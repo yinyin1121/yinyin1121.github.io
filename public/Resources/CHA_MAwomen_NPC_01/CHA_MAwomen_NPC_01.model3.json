@@ -8,19 +8,19 @@
 		"DisplayInfo": "CHA_MAwomen_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Mawomen_Angry_01.exp3.json",
+				"Name": "Angry",
 				"File": "expressions/EMO_Mawomen_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_MAwomen_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_MAwomen_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mawomen_Sad_01.exp3.json",
+				"Name": "Sad",
 				"File": "expressions/EMO_Mawomen_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Mawomen_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Mawomen_Smile_01.exp3.json"
 			}
 		],

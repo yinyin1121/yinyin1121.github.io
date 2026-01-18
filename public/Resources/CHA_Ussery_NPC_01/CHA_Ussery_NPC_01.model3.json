@@ -8,11 +8,11 @@
 		"DisplayInfo": "CHA_Ussery_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Ussery_Idle_01.exp3.json",
+				"Name": "Idle",
 				"File": "expressions/EMO_Ussery_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Ussery_Smile_01.exp3.json",
+				"Name": "Smile",
 				"File": "expressions/EMO_Ussery_Smile_01.exp3.json"
 			}
 		],

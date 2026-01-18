@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Qiongjiu_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Qiongjiu_Angry_01 ",
+				"Name": "Angry",
 				"File": "expressions/EMO_Qiongjiu_Angry_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Qiongjiu_Happy_01 ",
+				"Name": "Happy",
 				"File": "expressions/EMO_Qiongjiu_Happy_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Qiongjiu_Idle_01 ",
+				"Name": "Idle",
 				"File": "expressions/EMO_Qiongjiu_Idle_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Qiongjiu_Sad_01 ",
+				"Name": "Sad",
 				"File": "expressions/EMO_Qiongjiu_Sad_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Qiongjiu_Serious_01 ",
+				"Name": "Serious",
 				"File": "expressions/EMO_Qiongjiu_Serious_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Qiongjiu_Shy_01 ",
+				"Name": "Shy",
 				"File": "expressions/EMO_Qiongjiu_Shy_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Qiongjiu_Smile_01 ",
+				"Name": "Smile",
 				"File": "expressions/EMO_Qiongjiu_Smile_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Qiongjiu_Surprised_01 ",
+				"Name": "Surprised",
 				"File": "expressions/EMO_Qiongjiu_Surprised_01 .exp3.json"
 			},
 			{
-				"Name": "EMO_Qiongjiu_Think_01 ",
+				"Name": "Think",
 				"File": "expressions/EMO_Qiongjiu_Think_01 .exp3.json"
 			}
 		],

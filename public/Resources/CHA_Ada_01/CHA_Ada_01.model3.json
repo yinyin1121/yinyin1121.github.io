@@ -8,15 +8,15 @@
 		"DisplayInfo": "CHA_Ada_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "CHA_Ada_Disdain_01",
+				"Name": "Disdain",
 				"File": "expressions/CHA_Ada_Disdain_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Ada_Idle_01",
+				"Name": "Idle",
 				"File": "expressions/CHA_Ada_Idle_01.exp3.json"
 			},
 			{
-				"Name": "CHA_Ada_Nervous_01",
+				"Name": "Nervous",
 				"File": "expressions/CHA_Ada_Nervous_01.exp3.json"
 			}
 		],
