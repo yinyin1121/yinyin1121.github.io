@@ -25,6 +25,14 @@ function Live2DApp({ gameId = 0 }) {
       ? navigator.language
       : 'en'
   );
+  const [displayLocalized, setDisplayLocalized] = useState(true);
+
+  const sortedModels = modelList.map((model, index) => ({
+    model,
+    index: index,
+    name: getModelDisplayName(model, locale)
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name, locale));
 
   useEffect(() => {
     const models = getAvailableModels(gameId);
@@ -161,18 +169,30 @@ function Live2DApp({ gameId = 0 }) {
         <button className="toggle-btn" onClick={() => setIsLPanelOpen(!isLPanelOpen)}>
           <FaPerson />
         </button>
-        <div style={{padding: '0px 15px'}}>Original project <a href='https://srpg-kr.github.io/live2d/' target='_blank'>here</a></div>
         <div className="l2d-panel-control">
           <h2>Models</h2>
         </div>
         <div className="sidebar-content">
+          <input
+            type="checkbox"
+            checked={displayLocalized}
+            onChange={(e) => setDisplayLocalized(e.target.checked)}
+          />
+          Localized Names
           <div className="category-list">
-            {modelList.map((model, index) => (
+            {displayLocalized ? sortedModels.map(({ model, index, name }) => (
               <button
                 key={`${model.id}-${index}`}
                 onClick={() => handleModelSelect(index)}
               >
-                {getModelDisplayName(model, locale)}
+                {name}
+              </button>
+            )) : modelList.map((model, index) => (
+              <button
+                key={`${model.id}-${index}`}
+                onClick={() => handleModelSelect(index)}
+              >
+                {model.displayName}
               </button>
             ))}
           </div>

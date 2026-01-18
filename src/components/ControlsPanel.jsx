@@ -407,6 +407,7 @@ function ControlsPanel({ refreshFlag }) {
   return (
     <div>
       <BuyMeACoffeeButton user="jarari" />
+      <div>Original project <a href='https://srpg-kr.github.io/live2d/' target='_blank'>here</a></div>
       <h2>Background</h2>
       <button onClick={() => setIsColorPickerOpen(!isColorPickerOpen)}>Change Color</button>
       { isColorPickerOpen && (
