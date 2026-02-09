@@ -1,0 +1,231 @@
+{
+  "Version": 3,
+  "ConfVer": 0,
+  "Type": 0,
+  "FileReferences": {
+    "Moc": "aiyin_5thanv.moc3",
+    "Textures": [
+      "aiyin_5thanv.2048/aiyin_5thanv_00.png",
+      "aiyin_5thanv.2048/0.png",
+      "aiyin_5thanv.2048/aiyin_5thanv_02.png",
+      "aiyin_5thanv.2048/aiyin_5thanv_03.png",
+      "aiyin_5thanv.2048/0.png",
+      "aiyin_5thanv.2048/0.png",
+      "aiyin_5thanv.2048/aiyin_doll01.png",
+      "aiyin_5thanv.2048/aiyin_face00.png",
+      "aiyin_5thanv.2048/0.png",
+      "aiyin_5thanv.2048/0.png",
+      "aiyin_5thanv.2048/0.png",
+      "aiyin_5thanv.2048/aiyin_5thanv_11.png",
+      "aiyin_5thanv.2048/aiyin_5thanv_12.png"
+    ],
+    "Physics": "aiyin_5thanv.physics3.json",
+    "PhysicsV2": {
+      "File": "aiyin_5thanv.physics3.json"
+    },
+    "Motions": {
+      "": [
+        {
+          "Name": "biyan",
+          "File": "motions/biyan.motion3.json"
+        }
+      ],
+      "TapHitArea_wing1": [
+        {
+          "Name": "wings",
+          "File": "motions/touchwing.motion3.json",
+          "Text": "These aren't ribbons from a gift box, and I am not a \"gift.\"",
+          "TextDelay": 10,
+          "TextDuration": 100
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "baozao.exp3.json",
+        "File": "expressions/baozao.exp3.json"
+      },
+      {
+        "Name": "idle.exp3.json",
+        "File": "expressions/idle.exp3.json"
+      },
+      {
+        "Name": "jingya.exp3.json",
+        "File": "expressions/jingya.exp3.json"
+      },
+      {
+        "Name": "kuishi.exp3.json",
+        "File": "expressions/kuishi.exp3.json"
+      },
+      {
+        "Name": "qiexi.exp3.json",
+        "File": "expressions/qiexi.exp3.json"
+      },
+      {
+        "Name": "shiwang.exp3.json",
+        "File": "expressions/shiwang.exp3.json"
+      },
+      {
+        "Name": "shiwang2.exp3.json",
+        "File": "expressions/shiwang2.exp3.json"
+      },
+      {
+        "Name": "tiaomei.exp3.json",
+        "File": "expressions/tiaomei.exp3.json"
+      },
+      {
+        "Name": "weixiao.exp3.json",
+        "File": "expressions/weixiao.exp3.json"
+      },
+      {
+        "Name": "wunai.exp3.json",
+        "File": "expressions/wunai.exp3.json"
+      },
+      {
+        "Name": "wunaixiao.exp3.json",
+        "File": "expressions/wunaixiao.exp3.json"
+      },
+      {
+        "Name": "xianqi.exp3.json",
+        "File": "expressions/xianqi.exp3.json"
+      },
+      {
+        "Name": "yangtou.exp3.json",
+        "File": "expressions/yangtou.exp3.json"
+      }
+    ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Items": [
+        {
+          "Id": "ParamEyeLOpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        },
+        {
+          "Id": "ParamEyeROpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0,
+      "Items": [
+        {
+          "Id": "ParamMouthForm",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        },
+        {
+          "Id": "ParamMouthOpenY",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        },
+        {
+          "Id": "ParamMouthForm2",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "HitAreas": [
+    {
+      "Name": "HitArea_arm",
+      "Id": "HitArea_arm"
+    },
+    {
+      "Name": "HitArea_head",
+      "Id": "HitArea_head"
+    },
+    {
+      "Name": "HitArea_body",
+      "Id": "HitArea_body"
+    },
+    {
+      "Name": "HitArea_ear",
+      "Id": "HitArea_ear"
+    },
+    {
+      "Name": "HitArea_wing1",
+      "Id": "HitArea_wing1"
+    },
+    {
+      "Name": "HitArea_L_down2",
+      "Id": "HitArea_L_down2"
+    },
+    {
+      "Name": "HitArea_L_down",
+      "Id": "HitArea_L_down"
+    },
+    {
+      "Name": "HitArea_R_down",
+      "Id": "HitArea_R_down"
+    },
+    {
+      "Name": "HitArea_R_up",
+      "Id": "HitArea_R_up"
+    },
+    {
+      "Name": "HitArea_wings2",
+      "Id": "HitArea_wings2"
+    },
+    {
+      "Name": "HitArea_fuwen",
+      "Id": "HitArea_fuwen"
+    },
+    {
+      "Name": "HitArea_body2",
+      "Id": "HitArea_body2"
+    }
+  ],
+  "Options": {
+    "TexType": 0
+  }
+}

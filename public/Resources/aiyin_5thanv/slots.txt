@@ -1,0 +1,8 @@
+01 hat
+04 unused
+05 other hat
+06 shoulder
+07 face
+08 horns
+09 cat ears
+10 glasses

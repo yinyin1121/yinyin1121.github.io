@@ -1,0 +1,228 @@
+{
+  "Version": 3,
+  "ConfVer": 0,
+  "Type": 0,
+  "FileReferences": {
+    "Moc": "aiyin_vday26_shuiyi.moc3",
+    "Textures": [
+      "aiyin_vday26_shuiyi.2048/aiyin_vday26_shuiyi_01.png",
+      "aiyin_vday26_shuiyi.2048/aiyin_vday26_shuiyi.png",
+      "aiyin_vday26_shuiyi.2048/0.png",
+      "aiyin_vday26_shuiyi.2048/0.png",
+      "aiyin_vday26_shuiyi.2048/0.png",
+      "aiyin_vday26_shuiyi.2048/0.png",
+      "aiyin_vday26_shuiyi.2048/0.png",
+      "aiyin_vday26_shuiyi.2048/aiyin_face00.png",
+      "aiyin_vday26_shuiyi.2048/0.png",
+      "aiyin_vday26_shuiyi.2048/0.png",
+      "aiyin_vday26_shuiyi.2048/0.png"
+    ],
+    "Physics": "aiyin_vday26_shuiyi.physics3.json",
+    "PhysicsV2": {
+      "File": "aiyin_vday26_shuiyi.physics3.json"
+    },
+    "Expressions": [
+      {
+        "Name": "baozao.exp3.json",
+        "File": "expressions/baozao.exp3.json"
+      },
+      {
+        "Name": "baozao_diguo.exp3.json",
+        "File": "expressions/baozao_diguo.exp3.json"
+      },
+      {
+        "Name": "idle.exp3.json",
+        "File": "expressions/idle.exp3.json"
+      },
+      {
+        "Name": "idle_diguo.exp3.json",
+        "File": "expressions/idle_diguo.exp3.json"
+      },
+      {
+        "Name": "jingya.exp3.json",
+        "File": "expressions/jingya.exp3.json"
+      },
+      {
+        "Name": "jingya_diguo.exp3.json",
+        "File": "expressions/jingya_diguo.exp3.json"
+      },
+      {
+        "Name": "kuishi.exp3.json",
+        "File": "expressions/kuishi.exp3.json"
+      },
+      {
+        "Name": "kuishi_diguo.exp3.json",
+        "File": "expressions/kuishi_diguo.exp3.json"
+      },
+      {
+        "Name": "miyanxiao.exp3.json",
+        "File": "expressions/miyanxiao.exp3.json"
+      },
+      {
+        "Name": "qiexi.exp3.json",
+        "File": "expressions/qiexi.exp3.json"
+      },
+      {
+        "Name": "qiexi_diguo.exp3.json",
+        "File": "expressions/qiexi_diguo.exp3.json"
+      },
+      {
+        "Name": "renzhen.exp3.json",
+        "File": "expressions/renzhen.exp3.json"
+      },
+      {
+        "Name": "shiwang.exp3.json",
+        "File": "expressions/shiwang.exp3.json"
+      },
+      {
+        "Name": "shiwang2.exp3.json",
+        "File": "expressions/shiwang2.exp3.json"
+      },
+      {
+        "Name": "shiwang2_diguo.exp3.json",
+        "File": "expressions/shiwang2_diguo.exp3.json"
+      },
+      {
+        "Name": "shiwang_diguo.exp3.json",
+        "File": "expressions/shiwang_diguo.exp3.json"
+      },
+      {
+        "Name": "tiaomei.exp3.json",
+        "File": "expressions/tiaomei.exp3.json"
+      },
+      {
+        "Name": "tiaomeixiao.exp3.json",
+        "File": "expressions/tiaomeixiao.exp3.json"
+      },
+      {
+        "Name": "tiaomei_diguo.exp3.json",
+        "File": "expressions/tiaomei_diguo.exp3.json"
+      },
+      {
+        "Name": "weixiao.exp3.json",
+        "File": "expressions/weixiao.exp3.json"
+      },
+      {
+        "Name": "weixiao_diguo.exp3.json",
+        "File": "expressions/weixiao_diguo.exp3.json"
+      },
+      {
+        "Name": "wunai.exp3.json",
+        "File": "expressions/wunai.exp3.json"
+      },
+      {
+        "Name": "wunaixiao.exp3.json",
+        "File": "expressions/wunaixiao.exp3.json"
+      },
+      {
+        "Name": "wunaixiao_diguo.exp3.json",
+        "File": "expressions/wunaixiao_diguo.exp3.json"
+      },
+      {
+        "Name": "wunai_diguo.exp3.json",
+        "File": "expressions/wunai_diguo.exp3.json"
+      },
+      {
+        "Name": "xianqi.exp3.json",
+        "File": "expressions/xianqi.exp3.json"
+      },
+      {
+        "Name": "xianqi_diguo.exp3.json",
+        "File": "expressions/xianqi_diguo.exp3.json"
+      },
+      {
+        "Name": "yangtou.exp3.json",
+        "File": "expressions/yangtou.exp3.json"
+      },
+      {
+        "Name": "yangtouxiao.exp3.json",
+        "File": "expressions/yangtouxiao.exp3.json"
+      }
+    ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Items": [
+        {
+          "Id": "ParamEyeLOpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        },
+        {
+          "Id": "ParamEyeROpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "HitAreas": [
+    {
+      "Name": "HitArea_arm",
+      "Id": "HitArea_arm"
+    },
+    {
+      "Name": "HitArea_head",
+      "Id": "HitArea_head"
+    },
+    {
+      "Name": "HitArea_body",
+      "Id": "HitArea_body"
+    },
+    {
+      "Name": "HitArea_hand",
+      "Id": "HitArea_hand"
+    },
+    {
+      "Name": "HitArea_bosui",
+      "Id": "HitArea_bosui"
+    }
+  ],
+  "Options": {
+    "ScaleFactor": 1.50000012,
+    "TexType": 0
+  }
+}
