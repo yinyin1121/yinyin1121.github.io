@@ -3,8 +3,8 @@ import path from 'path';
 import { Octokit } from '@octokit/rest';
 
 const { GITHUB_ISSUE_NUMBER, GITHUB_ISSUE_BODY, GITHUB_TOKEN } = process.env;
-const owner = '0x795E69D8';
-const repo = '0x795E69D8.github.io';
+const owner = 'YinYin1121';
+const repo = 'YinYin1121.github.io';
 
 const octokit = new Octokit({ auth: GITHUB_TOKEN });
 

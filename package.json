@@ -1,5 +1,5 @@
 {
-  "name": "0x795E69D8.github.io",
+  "name": "YinYin1121.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -37,13 +37,13 @@
   "main": "eslint.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0x795E69D8/0x795E69D8.github.io.git"
+    "url": "git+https://github.com/YinYin1121/YinYin1121.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0x795E69D8/0x795E69D8.github.io/issues"
+    "url": "https://github.com/YinYin1121/YinYin1121.github.io/issues"
   },
-  "homepage": "https://0x795E69D8.github.io/"
+  "homepage": "https://YinYin1121.github.io/"
 }

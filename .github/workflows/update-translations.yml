@@ -34,8 +34,8 @@ jobs:
           const path = require('path');
 
           const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-          const owner   = '0x795E69D8';
-          const repo    = '0x795E69D8.github.io';
+          const owner   = 'YinYin1121';
+          const repo    = 'YinYin1121.github.io';
 
           (async () => {
             const issues = await octokit.paginate(
@@ -97,8 +97,8 @@ jobs:
         if: steps.process_issues.outputs.issues_to_patch != '[]'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OWNER: 0x795E69D8
-          REPO:  0x795E69D8.github.io
+          OWNER: YinYin1121
+          REPO:  YinYin1121.github.io
           ISSUE_LIST: ${{ steps.process_issues.outputs.issues_to_patch }}
         run: |
           node <<'NODE'

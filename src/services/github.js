@@ -29,8 +29,8 @@ export function logout() {
 
 export async function getIssues(token) {
   const octokit = new Octokit({ auth: token });
-  const owner = '0x795E69D8';
-  const repo = '0x795E69D8.github.io';
+  const owner = 'YinYin1121';
+  const repo = 'YinYin1121.github.io';
 
   try {
     const response = await octokit.request('GET /repos/{owner}/{repo}/issues', {
@@ -54,8 +54,8 @@ export async function getIssues(token) {
 
 export async function rejectSuggestion(token, issueNumber) {
   const octokit = new Octokit({ auth: token });
-  const owner = '0x795E69D8';
-  const repo = '0x795E69D8.github.io';
+  const owner = 'YinYin1121';
+  const repo = 'YinYin1121.github.io';
 
   try {
     await octokit.request('PATCH /repos/{owner}/{repo}/issues/{issue_number}', {
@@ -73,8 +73,8 @@ export async function rejectSuggestion(token, issueNumber) {
 
 export async function acceptSuggestion(token, issueNumber) {
   const octokit = new Octokit({ auth: token });
-  const owner = '0x795E69D8';
-  const repo = '0x795E69D8.github.io';
+  const owner = 'YinYin1121';
+  const repo = 'YinYin1121.github.io';
 
   try {
     // Add the 'accepted' label to the issue
@@ -105,8 +105,8 @@ export async function acceptSuggestion(token, issueNumber) {
 
 export async function createSuggestionIssue(token, cnText, krText, suggestedText) {
   const octokit = new Octokit({ auth: token });
-  const owner = '0x795E69D8';
-  const repo = '0x795E69D8.github.io';
+  const owner = 'YinYin1121';
+  const repo = 'YinYin1121.github.io';
 
   const title = `[Translation Suggestion] ${cnText}`;
   const body = `
@@ -154,8 +154,8 @@ export function parseIssueBody(body) {
 
 export async function dispatchWorkflow(token, workflowId, ref = 'main') {
   const octokit = new Octokit({ auth: token });
-  const owner = '0x795E69D8';
-  const repo = '0x795E69D8.github.io';
+  const owner = 'YinYin1121';
+  const repo = 'YinYin1121.github.io';
 
   try {
     await octokit.request('POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches', {
@@ -174,8 +174,8 @@ export async function dispatchWorkflow(token, workflowId, ref = 'main') {
 
 export async function checkAdminPermissions(token) {
   const octokit = new Octokit({ auth: token });
-  const owner = '0x795E69D8';
-  const repo = '0x795E69D8.github.io';
+  const owner = 'YinYin1121';
+  const repo = 'YinYin1121.github.io';
 
   try {
     const { data } = await octokit.request('GET /repos/{owner}/{repo}/collaborators/{username}/permission', {
