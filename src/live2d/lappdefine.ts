@@ -54,6 +54,11 @@ export const ModelDir_GFL2: string[] = [
     "aiyin_vday26_shuiyi",
     "aiyin_resha", 
     "aiyin_22baiqing",
+    "aiyin_yesai",
+    "aiyin_yesai2",
+    "aiyin_kongbupian",
+    "aiyin_kongbupian_dark",
+    "aiyin_juexing"
 ];
 
 export type ModelSourceType = 'model3' | 'moc3';
