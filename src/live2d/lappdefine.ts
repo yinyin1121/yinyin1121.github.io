@@ -50,7 +50,7 @@ export const PowerImageName = 'CloseNormal.png';
 // ディレクトリ名とmodel3.jsonの名前を一致させておくこと
 export const ModelDir_GFL2: string[] = [
     
-    "aiyin_5thanv"
+    "aiyin_5thanv",
     "aiyin_vday26_shuiyi"
 ];
 
