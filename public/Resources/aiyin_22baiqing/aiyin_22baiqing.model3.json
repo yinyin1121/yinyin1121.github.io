@@ -1,0 +1,222 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "aiyin_22baiqing.moc3",
+		"Textures": [
+			
+			"aiyin_22baiqing.2048/aiyin_22baiqing.png",
+			"aiyin_22baiqing.2048/0.png",
+			"aiyin_22baiqing.2048/0.png",
+			"aiyin_22baiqing.2048/0.png",
+			"aiyin_22baiqing.2048/0.png",
+			"aiyin_22baiqing.2048/0.png",
+			"aiyin_22baiqing.2048/0.png",
+			"aiyin_22baiqing.2048/aiyin_face00.png",
+			"aiyin_22baiqing.2048/0.png",
+			"aiyin_22baiqing.2048/0.png",
+			"aiyin_22baiqing.2048/0.png"
+		],
+		"Physics": "aiyin_22baiqing.physics3.json",
+		"Expressions": [
+			{
+				"Name": "baozao.exp3.json",
+				"File": "expressions/baozao.exp3.json"
+			},
+			{
+				"Name": "idle.exp3.json",
+				"File": "expressions/idle.exp3.json"
+			},
+			{
+				"Name": "jingya.exp3.json",
+				"File": "expressions/jingya.exp3.json"
+			},
+			{
+				"Name": "kuishi.exp3.json",
+				"File": "expressions/kuishi.exp3.json"
+			},
+			{
+				"Name": "qiexi.exp3.json",
+				"File": "expressions/qiexi.exp3.json"
+			},
+			{
+				"Name": "shiwang.exp3.json",
+				"File": "expressions/shiwang.exp3.json"
+			},
+			{
+				"Name": "shiwang2.exp3.json",
+				"File": "expressions/shiwang2.exp3.json"
+			},
+			{
+				"Name": "tiaomei.exp3.json",
+				"File": "expressions/tiaomei.exp3.json"
+			},
+			{
+				"Name": "weixiao.exp3.json",
+				"File": "expressions/weixiao.exp3.json"
+			},
+			{
+				"Name": "wunai.exp3.json",
+				"File": "expressions/wunai.exp3.json"
+			},
+			{
+				"Name": "wunaixiao.exp3.json",
+				"File": "expressions/wunaixiao.exp3.json"
+			},
+			{
+				"Name": "xianqi.exp3.json",
+				"File": "expressions/xianqi.exp3.json"
+			},
+			{
+				"Name": "yangtou.exp3.json",
+				"File": "expressions/yangtou.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/biyan.motion3.json"
+				},
+				{
+					"File": "motions/biyan_loop.motion3.json"
+				},
+				{
+					"File": "motions/biyan_off.motion3.json"
+				},
+				{
+					"File": "motions/biyan_on.motion3.json"
+				},
+				{
+					"File": "motions/celian.motion3.json"
+				},
+				{
+					"File": "motions/celian_loop.motion3.json"
+				},
+				{
+					"File": "motions/celian_off.motion3.json"
+				},
+				{
+					"File": "motions/celian_on.motion3.json"
+				},
+				{
+					"File": "motions/ceyan.motion3.json"
+				},
+				{
+					"File": "motions/ceyan_loop.motion3.json"
+				},
+				{
+					"File": "motions/ceyan_off.motion3.json"
+				},
+				{
+					"File": "motions/ceyan_on.motion3.json"
+				},
+				{
+					"File": "motions/diantou.motion3.json"
+				},
+				{
+					"File": "motions/houyang.motion3.json"
+				},
+				{
+					"File": "motions/houyang_loop.motion3.json"
+				},
+				{
+					"File": "motions/houyang_off.motion3.json"
+				},
+				{
+					"File": "motions/houyang_on.motion3.json"
+				},
+				{
+					"File": "motions/lianhong.motion3.json"
+				},
+				{
+					"File": "motions/lianhong_loop.motion3.json"
+				},
+				{
+					"File": "motions/lianhong_off.motion3.json"
+				},
+				{
+					"File": "motions/lianhong_on.motion3.json"
+				},
+				{
+					"File": "motions/qianqing.motion3.json"
+				},
+				{
+					"File": "motions/qianqing_loop.motion3.json"
+				},
+				{
+					"File": "motions/qianqing_off.motion3.json"
+				},
+				{
+					"File": "motions/qianqing_on.motion3.json"
+				},
+				{
+					"File": "motions/talk01.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/talk02.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/talk03.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/talk04.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/xiayitiao.motion3.json",
+					"FadeInTime": 0.5
+				},
+				{
+					"File": "motions/yaotou.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "motions/idle_loop.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthForm",
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea_arm",
+			"Name": "HitArea_arm"
+		},
+		{
+			"Id": "HitArea_hand",
+			"Name": "HitArea_hand"
+		},
+		{
+			"Id": "HitArea_head",
+			"Name": "HitArea_head"
+		},
+		{
+			"Id": "HitArea_body",
+			"Name": "HitArea_body"
+		}
+	]
+}

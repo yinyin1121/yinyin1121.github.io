@@ -51,7 +51,9 @@ export const PowerImageName = 'CloseNormal.png';
 export const ModelDir_GFL2: string[] = [
     
     "aiyin_5thanv",
-    "aiyin_vday26_shuiyi"
+    "aiyin_vday26_shuiyi",
+    "aiyin_resha", 
+    "aiyin_22baiqing",
 ];
 
 export type ModelSourceType = 'model3' | 'moc3';
